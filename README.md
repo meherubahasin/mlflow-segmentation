@@ -6,7 +6,7 @@ This document outlines how to run the segmentation experiments and analyze the r
 
 The experiments are located in the `experiments/` directory. You can run them individually using `python`.
 
-**Note:** Ensure you are in the project root (`/Users/betopia/segmentation`) and have `PYTHONPATH=.` set if needed (though the scripts should handle relative imports).
+**Note:** Ensure you are in the project root (`/Users/segmentation`) and have `PYTHONPATH=.` set if needed (though the scripts should handle relative imports).
 
 ### Baseline
 Train the standard ResNet18 model on CIFAR10.
